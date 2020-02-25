@@ -1,0 +1,24 @@
+{"intents": [
+        {"tag": "margarita pizza",
+         "patterns": ["margarita pizza", "margarita", "veg margarita"]
+        },
+        {"tag": "double cheese margarita pizza",
+         "patterns": ["cheese margarita", "double cheese margarita", "double cheese margarita pizza", "cheese margarita pizza"]
+        },
+        {"tag": "onion pizza",
+         "patterns": ["onion blossoms", "blossoms pizza", "onion pizza"]
+        },
+        {"tag": "garder delight pizza",
+         "patterns": ["garder delight", "garden delight pizza", "gardern pizza"]
+        },
+        {"tag": "spring fling pizza",
+         "patterns": ["spring fling", "spring pizza", "spring fling pizza"]
+        },
+        {"tag": "lovers bite pizza",
+         "patterns": ["lovers bite", "lovers pizza"]
+        },
+        {"tag": "sweet heat pizza",
+         "patterns": ["sweet heat", "sweet heat pizza", "sweet pizza", "heat pizza"]
+        }
+   ]
+}
